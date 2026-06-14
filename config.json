@@ -1,6 +1,6 @@
 {
-    "blocked": false,
+    "blocked": true,
     "forceUpdate": false,
     "latestVersion": "1.0.0",
-    "message": "Game Available!."
+    "message": "Game Restricted!."
 }
